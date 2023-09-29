@@ -11,10 +11,9 @@ So we could quickly identify and treat the plants with the appropriate fungal sp
 My dataset consists of:
 
 3 Classes:
-
-Healthy leaves (152 items)
-Early Blight (1000 items)
-Late Blight (1000 items) 
+Healthy leaves (152 items)  
+Early Blight (1000 items)  
+Late Blight (1000 items)   
 256 x 256 JPG
 
 ## Dataset
