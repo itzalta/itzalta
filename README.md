@@ -1,7 +1,10 @@
-Dataset : https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+## Dataset
+: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 
 
+
+## Results
 ![image](https://github.com/itzalta/itzalta/assets/144862942/de8e1439-2750-41fa-9a0c-e4bff654bcca)
 
 
