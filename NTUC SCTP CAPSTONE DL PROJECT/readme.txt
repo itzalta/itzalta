@@ -1,3 +1,12 @@
+![image](https://github.com/itzalta/itzalta/assets/144862942/de8e1439-2750-41fa-9a0c-e4bff654bcca)
+
+
+
+
+
+
+
+
 
 Hi, I'm Altamish - a Data Scientist working at an agricultural company dealing with crop production. 
 Over the years, many of our farms across the country suffered from great financial losses due to Potato Blight - a fungal disease that affects potato plants.
