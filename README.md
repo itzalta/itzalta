@@ -17,7 +17,7 @@ Late Blight (1000 items)
 256 x 256 JPG
 
 ## Dataset
-: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 
 
