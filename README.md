@@ -46,7 +46,12 @@ Notable improvements over each epoch. Can be further improved with more training
 ![image](https://github.com/itzalta/itzalta/assets/144862942/de8e1439-2750-41fa-9a0c-e4bff654bcca)
 
 
-## Interface with Gradio
+## Interface using Gradio
+Test images taken from Google
+
+![image](https://github.com/itzalta/itzalta/assets/144862942/84df6c9b-3eb3-4dd1-be09-78b804c44d78)
+
+![image](https://github.com/itzalta/itzalta/assets/144862942/044526f2-a8db-4866-aacb-255cc2d03ee5)
 
 
 
