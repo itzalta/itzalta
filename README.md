@@ -21,8 +21,32 @@ https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 
 
-## Results
+## Train Val Test Split
+
+Train 80%, Val 10%, Test 10%
+
+![image](https://github.com/itzalta/itzalta/assets/144862942/6ca9f7a9-1e72-40b6-9050-58105b945f77)
+
+
+
+## Training Model 
+
+![image](https://github.com/itzalta/itzalta/assets/144862942/2ec69c68-4661-4987-a901-16db9c6272dc)
+
+
+## Training & Val, Accuracy/Loss
+Notable improvements over each epoch. Can be further improved with more training time.
+
+![image](https://github.com/itzalta/itzalta/assets/144862942/9d19e130-ffd9-4e9b-9e39-113d39b4ed7b)
+
+
+
+
+## Visualising Results
 ![image](https://github.com/itzalta/itzalta/assets/144862942/de8e1439-2750-41fa-9a0c-e4bff654bcca)
+
+
+## Interface with Gradio
 
 
 
